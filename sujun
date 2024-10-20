@@ -1,0 +1,32 @@
+
+http://103.84.173.164:5001/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports Channels",SONY SPORTS TEN 3 HD
+http://103.84.173.164:5001/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channels",SONY SPORTS TEN 5 HD
+http://103.84.173.164:5001/api/sony_six_hd.m3u8
+#EXTINF:-1 tvg-id="SONY ENTERTAINMENT TELEVISION" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION
+http://103.84.173.164:5001/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-id="SONY ENTERTAINMENT TELEVISION HD" tvg-name="SONY ENTERTAINMENT TELEVISION HD" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION HD
+http://103.84.173.164:5001/api/sony_entertainmnt_hd.m3u8
+#EXTINF:-1 tvg-id="SONY MAX" tvg-name="SONY MAX" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Entertainment Channels",SONY MAX
+http://103.84.173.164:5001/api/sony_max.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Entertainment Channels",SONY MAX HD
+http://103.84.173.164:5001/api/set_max_hd.m3u8
+#EXTINF:-1 tvg-id="B4U Music VIP" tvg-name="B4U Music VIP" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Entertainment Channels",B4U Music VIP
+http://103.84.173.164:5001/api/b4umusic.m3u8
+#EXTINF:-1 tvg-id="Sony Aat" tvg-name="Sony Aat" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment Channels",Sony Aat
+http://103.84.173.164:5001/api/sony_aath.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-name="SONY SAB HD" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Entertainment Channels",SONY SAB HD
+http://103.84.173.164:5001/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Entertainment Channels",SONY MAX 2
+http://103.84.173.164:5001/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-id="SONY WAH" tvg-name="SONY WAH" tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment Channels",SONY WAH
+http://103.84.173.164:5001/api/sony_wah.m3u8
+#EXTINF:-1 tvg-id="SONY YAY" tvg-name="SONY YAY" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Entertainment Channels",SONY YAY
+http://103.84.173.164:5001/api/sony_yay.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-name="SONY BBC EARTH HD" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Entertainment Channels",SONY BBC EARTH HD
+http://103.84.173.164:5001/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie Channels",SONY PIX HD
+http://103.84.173.164:5001/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-id="B4U Movies VIP" tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Movie Channels",B4U Movies VIP
+http://103.84.173.164:5001/api/b4u_movies.m3u8
